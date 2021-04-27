@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Burning Rose is the official publication of the Northeastern University
   chapter of Young Democratic Socialists of America.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://theburningrose.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BurningRoseNU
 github_username:  jekyll
 

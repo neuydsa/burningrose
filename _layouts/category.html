@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="archive author">
+    <header class="page-header border-bottom pb-3">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="author-profile-card">
+                    <h1>{{ page.title }}</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% for post in site.posts %}
+    {% if post.categories contains page.category %}
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+        <article class="mb-1 post type-post status-publish format-standard has-post-thumbnail hentry category-labor">
+            <div class="row">
+                <div class="col-md-3 offset-md-1 pt-3 pb-3 px-0 px-md-3">
+                    <figure class="listing-thumbnail"><a
+                            href="{{ post.url }}"
+                            rel="bookmark"><img width="2048" height="1400"
+                                    src="{{ post.cover }}"
+                                    class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""/></a></figure>
+                </div>
+                <div class="col-md-5">
+                    <header class="entry-header pt-3 pb-3">
+                        <h2><a href="{{ post.url }}"
+                                rel="bookmark">{{ post.title }}</a></h2>
+                        <div class="description">
+                            <p>{{ post.snippet }}</p>
+                        </div>
+                        <div class="blog-post-lines d-inline pr-3">
+                            <address class="blog-post-byline"><a href="#"
+                                    title="Posts by {{ author.name }}" rel="author">{{ author.name }}</a></address> <span
+                                class="separator">|</span> <time class="blog-post-dateline" datetime=""><a
+                                    href="{{ post.url }}"
+                                    >{{ post.date | date_to_long_string }}</a></time>
+                        </div>
+                        <!--
+                        <div class="blog-post-category d-inline"> <a href="https://socialistcall.com/category/labor/"
+                                title="Labor" style="background-color: #6286a0; color: #fff">Labor</a></div>
+                        -->
+                    </header>
+                </div>
+            </div>
+        </article>
+    {% endif %}
+    {% endfor %}
+
+</div>

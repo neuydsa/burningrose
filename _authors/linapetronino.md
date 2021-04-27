@@ -1,0 +1,6 @@
+---
+short_name: linapetronino
+name: Lina Petronino
+position: Editor in Chief
+---
+Lina Petronino (she/her) is a first-year Journalism and Psychology student at Northeastern University and the Editor in Chief for the Burning Rose. She has been involved with YDSA Northeastern since her first semester and has actively participated in its housing and communications working groups. Lina grew up in Boonton Township, a conservative suburb in northern New Jersey, where she led her high school’s Young Progressives club and newspaper as co-president and Editor in Chief. She was introduced to socialism by Bernie Sanders’ 2016 presidential campaign, and has been a socialist ever since. She is passionate about bringing awareness to societal injustices through her writing, and specializes in Opinion, U.S., and Boston reporting. She became the Burning Rose’s first Editor in Chief in Spring 2021, and helped curate its first print edition. In the future, she hopes to broaden Burning Roses’ audience and to continue reporting about the world’s injustices.

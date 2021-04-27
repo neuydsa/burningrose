@@ -1,0 +1,62 @@
+---
+layout: default
+---
+{% assign author = site.authors | where: 'short_name', page.author | first %}
+<div class="single-post single">
+  <article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2">
+          <header class="entry-header pt-3 pb-5">
+            <h1 class="entry-title">{{ page.title }}</h1>
+            <!--
+          <div class="description">
+            <p>The conditions that made workers in Bessemer fight back aren’t going away. Some workers want the powerful
+              to feel what it means to have power wielded against them.</p>
+          </div>
+        -->
+            <div class="blog-post-lines d-inline pr-3">
+              <address class="blog-post-byline"><a href="{{ author.url }}" rel="author">{{ author.name }}</a></address>
+              <span class="separator">|</span> <time class="blog-post-dateline" datetime=""><a
+                  href="{{ page.url }}">{{page.date | date_to_long_string }}</a></time>
+            </div>
+            <!--
+          <div class="blog-post-category d-inline"> <a href="https://socialistcall.com/category/labor/" title="Labor"
+              style="background-color: #6286a0; color: #fff">Labor</a></div>
+          -->
+          </header>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-10 offset-md-1">
+          <div class="post-thumbnail"><img width="2048" height="1400"
+                src="{{ page.cover }}"
+                class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""/></div>
+                
+          <div class="featured-caption py-2">{{ page.cover_caption }}</div>
+        
+        </div>
+      </div>
+      <div class="row">
+        <div class="col border-bottom py-2 mt-3 mb-4"></div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-md-10 offset-md-1">
+          <div class="entry-content mt-0">
+            <!--
+          <p class="has-drop-cap">
+          </p>
+        -->
+            {{ page.content }}
+
+          </div>
+        </div>
+    </div>
+  </article>
+</div>
+
+<!--
+  {%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+  {%- endif -%}
+-->

@@ -1,0 +1,24 @@
+---
+layout: default
+title: Staff
+---
+<h1>Our Staff</h1>
+
+{% for author in site.authors %}
+<div class="archive author">
+  <header class="page-header border-bottom pb-3 pt-3">
+      <div class="row">
+          <div class="col-5 col-md-2 offset-md-1">
+              <img style="height: 8rem; width: 100%; object-fit: cover;"
+                  src="/assets/images/authors/{{ author.short_name }}.jpg" />
+          </div>
+          <div class="col-7 col-md-9">
+              <div class="intro">{{ author.position }}</div>
+              <div class="author-profile-card">
+                  <a href="{{ author.url }}"><h1>{{ author.name }}</h1></a>
+              </div>
+          </div>
+      </div>
+  </header>
+</div>
+{% endfor %}

@@ -1,0 +1,70 @@
+<header id="masthead" class="site-header container-lg">
+  <div id="site-header" class="py-md-3">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <div class="row d-none d-md-flex py-2">
+      <div class="col-md-8"><a href="https://neuydsa.org">The Official Publication of YDSA Northeastern</a></div>
+      <div class="col-md-4 text-right">
+        <div class="header-icons">
+          <a href="https://instagram.com/burningrosenu" class="dashicons dashicons-instagram"><span
+              class="sr-only">Instagram</span></a>
+          <a href="https://twitter.com/burningrosenu" class="dashicons dashicons-twitter"><span
+              class="sr-only">Twitter</span></a>
+        </div>
+      </div>
+    </div>
+    <div class="art">
+      <div style="text-align: center;"> <a href="/"><img
+              src="/assets/images/logo.png" width="640" height="194" alt="Burning Rose"> </a></div>
+    </div>
+  </div>
+  <div id="full-search" class="vw-100 vh-100 fixed-top bg-white d-flex">
+    <div class="container text-center my-auto">
+      <div class="row">
+        <div class="col text-right close-search"> <button class="border-0 bg-white p-3"><span
+              class="dashicons dashicons-no w-100 h-100"><span class="sr-only">Close</span></span></button></div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="site-nav container-lg">
+  <nav id="site-navigation" class="main-navigation navbar navbar-expand-lg pl-1 pl-md-3 pr-1 pr-md-3">
+    <div class="row mobile-menu">
+      <div class="col-6 offset-6 d-flex align-items-center justify-content-end"> <button onClick='$("#site-navigation").toggleClass("toggled")'
+          class="menu-toggle btn bd-search-docs-toggle px-0" aria-controls="primary-menu" aria-expanded="false"><span
+            class="dashicons dashicons-menu-alt"><span class="sr-only">Menu</span></span></button></div>
+    </div>
+    <div class="row">
+      <div class="w-100">
+        <ul id="primary-menu" class="nav nav-menu nav-fill pt-2 pb-2 align-items-center">
+          <li id="menu-item-1657"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657 nav-item"><a
+              href="/about" class="nav-link">About</a></li>
+          <li id="menu-item-1665"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1665 nav-item"><a
+              href="/categories/ydsa" class="nav-link">YDSA</a></li>
+          <li id="menu-item-1666"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1666 nav-item"><a
+              href="/categories/northeastern" class="nav-link">Northeastern</a></li>
+          <li id="menu-item-2488"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2488 nav-item"><a
+              href="/categories/boston" class="nav-link">Boston</a></li>
+          <li id="menu-item-2504"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504 nav-item"><a
+              href="/categories/world" class="nav-link">World</a></li>
+          <li id="menu-item-2504"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504 nav-item"><a
+              href="/categories/personal" class="nav-link">Personal</a></li>
+          <li id="menu-item-2504"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504 nav-item"><a
+              href="/staff" class="nav-link">Our Staff</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="mobile header-icons"> <a href="https://instagram.com/burningrosenu"
+        class="dashicons dashicons-instagram"><span class="sr-only">Instagram</span></a> <a
+        href="https://twitter.com/burningrosenu" class="dashicons dashicons-twitter"><span
+          class="sr-only">Twitter</span></a> </div>
+  </nav>
+</div>

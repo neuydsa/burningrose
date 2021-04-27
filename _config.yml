@@ -28,6 +28,8 @@ url: "https://theburningrose.com" # the base hostname & protocol for your site, 
 twitter_username: BurningRoseNU
 github_username:  jekyll
 
+google_analytics: UA-195642277-1
+
 collections:
   authors:
     output: true

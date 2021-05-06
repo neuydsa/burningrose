@@ -65,11 +65,3 @@ McCarthy notes that, particularly in light of “the moral responsibility [older
 Einwohner similarly notes that if young people gain enough power and legitimacy to influence older generations less attuned to the topic of climate change, that may be the true mark of success.
 
 “Maybe what’s more meaningful is not ‘did they get some demand met,’ but ‘do they have the kind of forward momentum to keep going and seek more goals, whatever those goals might be.’”
-
-Howley, Kevin. Interview by Taraneh Azar. Phone, September 23, 2019. 
-
-Einwohner, Rachel. Interview by Taraneh Azar. Phone, September 24, 2019.
-
-Rojas, Fabio. Interview by Taraneh Azar. Phone, September 24, 2019.
-
-McCarthy, Gina. Interview by Taraneh Azar. Boston, October 23, 2019. 

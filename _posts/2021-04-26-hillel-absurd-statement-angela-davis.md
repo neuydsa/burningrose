@@ -8,6 +8,7 @@ cover: /assets/images/covers/angela-davis.jpg
 cover_caption: "Photo courtesy of Northeastern University Libraries"
 tags: left
 ---
+*This article is republished and updated from The Huntington News. The updated article is as follows:*
 
 In the year 2021, America sees a concerning rise of anti-Semitism. Neo-Nazis feel emboldened to flaunt their bigotry in the [streets](https://www.washingtonpost.com/news/local/wp/2017/08/13/heres-what-a-neo-nazi-rally-looks-like-in-2017-america/) and in the U.S. [Capitol](https://www.timesofisrael.com/holocaust-denying-neo-nazis-among-the-trump-supporters-who-stormed-us-capitol/), while [hate](https://www.cbsnews.com/news/anti-semitic-incidents-on-rise/) crimes have increased across the country. A significant number of U.S. [congresspeople](https://nymag.com/intelligencer/2020/09/qanon-republican-party-congress.html) (all [Republicans](https://www.cnn.com/2021/02/04/politics/house-vote-marjorie-taylor-greene-committee-assignments/index.html)) have [supported](https://www.businessinsider.com/racist-great-replacement-conspiracy-far-alt-right-gop-mainstream-2020-9) numerous [anti-Semitic](https://www.dailykos.com/stories/2019/1/23/1828527/-How-the-cultural-Marxism-hoax-began-and-why-it-s-spreading-into-the-mainstream) conspiracy theories, such as QAnon, which is lifted directly from the age old “blood libel” canard, which holds that Jews drink the blood of Christian children. 
 

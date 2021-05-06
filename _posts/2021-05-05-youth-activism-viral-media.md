@@ -2,7 +2,7 @@
 layout: post
 title:  "Youth Activism in the Age of Viral Media"
 date:   2021-05-05 09:00:00 -0400
-categories: article boston
+categories: article world
 author: taranehazar
 cover: /assets/images/covers/youth-activism-viral-media.jpg
 cover_caption: "<a href='https://www.flickr.com/photos/140724511@N03/46134951002'>Photo courtesy of Julian Meehan</a>"

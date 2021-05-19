@@ -6,7 +6,7 @@ categories: statement
 author: steeringcommittee
 cover: /assets/images/covers/palestine-protest.jpg
 cover_caption: "<a href='https://www.flickr.com/photos/elhamalawy/38272721154'>Photo courtesy of Hossam el-Hamalawy</a>"
-tags: featured
+tags: right
 ---
 
 Now and forever, YDSA Northeastern will unequivocally support the Palestinian people in their struggle for liberation, from the river to the sea. The forced expulsion of families from their homes in Sheikh Jarrah, the storming of Al-Aqsa mosque during some of the most holy days of Ramadan, and the renewal of the siege on Gaza, which has claimed the lives of 56 Palestinians, 14 of them children, are but a few of the countless atrocities committed by Israel since its founding 73 years ago.

@@ -6,7 +6,7 @@ categories: article boston
 author: linapetronino
 cover: /assets/images/covers/evicted-suffering-starving.png
 cover_caption: "Illustrated by Taylie Kawakami"
-tags: featured
+tags: right
 ---
 
 (For the purpose of security, the undocumented tenant is referred to under the pseudonym of “Lucy”. Without the veil of anonymity, Lucy fears she could be deported.)

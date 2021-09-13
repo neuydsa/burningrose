@@ -4,7 +4,7 @@ title:  "Why DSA Matters"
 date:   2021-04-26 09:00:00 -0400
 categories: article ydsa
 author: jordanbuchman
-tags: featured
+tags: left
 cover: /assets/images/covers/why-dsa-matters.jpg
 cover_caption: "Photo courtesy of Katie Sharing"
 ---

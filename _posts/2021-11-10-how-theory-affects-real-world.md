@@ -5,7 +5,7 @@ date:   2021-11-10 09:00:00 -0400
 categories: article world
 author: redhoffman
 cover: /assets/images/covers/how-theory-affects-real-world.jpg
-cover_caption: ""
+cover_caption: "Graphic by Mark Burford"
 tags: featured
 ---
 
@@ -18,6 +18,7 @@ Theory has its issues, especially when taken at face value. Undying supporters o
 Given these issues, it makes sense that most practical leftists discard theory and make praxis their work—it’s more useful, especially in the short term. So why would we ever need theory? The answer lies in the principle that an uneducated workforce is a subservient workforce. Sure, having a general understanding of communism or socialism works in the interim, but there's a limit to how far sentiment can take us. We need to collectively understand our goals as leftists—what policies to make, which paths to take, where we want to end up. Bringing socialist knowledge to people in the real world is itself a form of praxis.
 
 ![](/assets/images/article_images/theory-1.jpg)
+Graphic by Taylie Kawakami
 
 To read theory and use it in your analysis of the world is to better understand what you're dealing with and how to deal with it. For instance, a piece of theory such as _First as Tragedy, Then as Farce_ by Slavoj Žižek can help us examine how global events are portrayed and processed: first as a tragedy, and then as an exaggerated recreation. On top of this, it describes the inherent immoralities in the system that produces these issues. In talking about the 2008 financial crash and the subsequent billions of dollars that were thrown into the global banking system, Žižek points out that a comparable effort could have been made to address world hunger or poverty—after all, if it wasn’t possible, how did we tackle the economic crash?
 
